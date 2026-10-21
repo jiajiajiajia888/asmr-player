@@ -1,0 +1,11 @@
+<resources>
+    <item name="channel_original" type="id" />
+    <item name="channel_left" type="id" />
+    <item name="channel_right" type="id" />
+    <item name="channel_mono" type="id" />
+    <item name="channel_auto" type="id" />
+    <item name="spatial_off" type="id" />
+    <item name="spatial_left" type="id" />
+    <item name="spatial_headphone" type="id" />
+    <item name="spatial_alternate" type="id" />
+</resources>
